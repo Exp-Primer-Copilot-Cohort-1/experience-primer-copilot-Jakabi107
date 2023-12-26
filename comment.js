@@ -1,3 +1,5 @@
+// Create web server
+
 /**
  * Creates an HTTP server that performs arithmetic operations based on the query parameters.
  * @param {Object} req - The request object.
